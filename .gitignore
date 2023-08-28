@@ -121,6 +121,5 @@ work_dirs/
 *.pth
 *.py~
 *.sh~
-dev_scripts/
 dataset_visual/
 .history/
